@@ -2,7 +2,7 @@
 
 Codes for projects on DNA in nanochannels/glass
 
-### This hosts the following (up to date) projects:
+### This hosts the following (up to date) projects and papers contributing to the development of these tools:
 
 https://github.com/dnadevcode/lldev
 
